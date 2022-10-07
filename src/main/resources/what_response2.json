@@ -1,0 +1,34 @@
+{
+  "user": {
+    "_id": "123456"
+  },
+  "rn": {
+    "_id": "15.00047/S",
+    "product_data": {
+      "enterprise_name": "ANDIA LACTEOS DE CANTABRIA, SLU",
+      "date_registering": "21/05/1977",
+      "address": "BARRIO SAN ANTONIO NºS/N",
+      "city": "RENEDO",
+      "province": "Cantabria",
+      "social_address": "BARRIO SAN ANTONIO NºS/N - RENEDO - 39470 - Cantabria",
+      "activities": [
+        "Fabricación o Elaboración o Transformación - Leche UHT y esterilizada",
+        "Fabricación o Elaboración o Transformación - Leche pasterizada",
+        "Fabricación o Elaboración o Transformación - Productos transformados a base de leche",
+        "Fabricación o Elaboración o Transformación - Leche deshidratada parcialmente (evaporada y concentrada)"
+      ]
+    },
+    "isFavourite": true,
+    "places": [
+      {
+        "name": "Mercadona",
+        "address": "Av. de la Ilustración, s/n, 18016 Granada",
+        "location": {
+          "lat": 37.15090934534388,
+          "lng": -3.6056559899296157
+        },
+        "price": "1.26"
+      }
+    ]
+  }
+}

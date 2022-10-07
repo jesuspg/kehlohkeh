@@ -1,0 +1,35 @@
+{
+  "user": {
+    "_id": "123456"
+  },
+  "rn": {
+    "_id": "12.00528/S",
+    "product_data": {
+      "enterprise_name": "CONSORCIO ESPAÑOL CONSERVERO SA",
+      "date_registering": "27/11/1981",
+      "address": "POLIGONO INDUSTRIAL LAS MARISMAS, Nº 61-62 NºS/N",
+      "city": "SANTOÑA",
+      "province": "Cantabria",
+      "social_address": "C/ EGUILIOR Nº1 - SANTOÑA - 39740 - Cantabria",
+      "activities": [
+        "Fabricación o Elaboración o Transformación - Semiconservas de productos de la pesca",
+        "Fabricación o Elaboración o Transformación - Productos de la pesca salados y en salazón",
+        "Importación - Productos de la pesca congelados",
+        "Importación - Semiconservas de productos de la pesca",
+        "Importación - Productos de la pesca salados y en salazón"
+      ]
+    },
+    "isFavourite": true,
+    "places": [
+      {
+        "name": "Carrefour",
+        "address": "Ctra. de Armilla, s/n, 18006 Granada",
+        "location": {
+          "lat": 37.154839321109286,
+          "lng": -3.6081525600603217
+        },
+        "price": "2.69"
+      }
+    ]
+  }
+}
